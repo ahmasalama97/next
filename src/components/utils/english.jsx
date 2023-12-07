@@ -1,0 +1,117 @@
+export const english = {
+  topBar: {
+    follow: "Follow Us:",
+  },
+  nav: {
+    home: "HOME",
+    about: "ABOUT US",
+    products: "PRODUCTS",
+    contact: "CONTACT US",
+  },
+  slider: {
+    slider1: "Trips, Experiences, and Places. All In One Service",
+    slider2: "Best Offers Trips From Us",
+    slider3: "World's Best Tourist Destinations",
+  },
+  popularPlaces: {
+    riyadh: "Riyadh",
+    riyadhDesc:
+      "The Riyadh Province, also known as the Riyadh Region, is a region of Saudi Arabia, located in the geographic center of the country. It is the second-largest region by both area and population, behind the Eastern Province and Mecca Region respectively.",
+    jeddah: "Jeddah",
+    jeddahDesc:
+      "Jeddah is a city in the Hejaz region of Saudi Arabia and the country's commercial center. Established in the 6th century BC as a fishing village, Jeddah’s prominence grew in 647 when the Caliph Osman made it a major port for Indian Ocean trade routes, channelling goods to Mecca, and to serve Muslim travelers for Islamic pilgrimage.",
+    madinah: "Al Madinah Al Munawwarah",
+    madinahDesc:
+      "Medina, officially Al Madinah Al Munawwarah. It IS the fourth-most populous city in the country. Located at the core of the Medina Province in the western reaches of the country, while the rest is occupied by the Hejaz Mountains, empty valleys, agricultural spaces and older dormant volcanoes.",
+    dammam: "Dammam",
+    dammamDesc:
+      "Dammam is the fifth-most populous city in Saudi Arabia after Riyadh, Jeddah, Mecca, and Medina. It is the capital of the Eastern Province. The judicial and administrative bodies of the province, in addition to the administrative offices of other minor governmental departments functioning within the province, are located in the city.",
+  },
+  general: {
+    transport: "Transportations",
+    catering: "Catering",
+    pcr: "PCR Test(s)",
+    hotelServices:
+      "Resevation and equipped tourists accomodation facilities licenced by Ministry of Tourism and qualified for quarantine, at all levels, five stars, four stars and three stars.",
+    transportServices:
+      "Providing the latest means of transportation from the airport to the shelter, in accordance with precautionary, requiements specified by the Public Health Authority with the presence of field supervisors.",
+    cateringServices:
+      "Suppling catering services in accordance with health requirements and standards, taking into account the list for each guest.",
+    pcrServices:
+      "Conducting PCR analyzes from accredited and licensed laboratories from the Saudi Ministry of Health.",
+    nights: "Nights",
+    meals: "Meals",
+    oneWay: "One Way",
+    fromAirport: "From Airport",
+    visas: "Tourist Visas",
+    hotelReservation: "Hotel Reservations of All Levels",
+    transportations: "Means of Transportation for Internal Transportation",
+    hotelCatering: "Catering Services for Hotels",
+    institutionalQuarantine: "Institutional Quarantine Services",
+    copyright: "Copyright",
+    companyName: "Elegant Operation",
+    year: "@2022",
+    a: 0,
+    b: 1,
+    c: 2,
+    d: 3,
+    e: 4,
+    f: 5,
+    g: 6,
+    h: 7,
+    i: 8,
+    j: 9,
+  },
+  pageHeaders: {
+    destinations: "POPULAR DESTINATIONS",
+    quarantine: "QUARANTINE SERVICES",
+    ourHotels: "OUR HOTELS",
+    allotmentHotels: "ALLOTMENT HOTELS",
+    ourPartners: "OUR PARTNERS",
+    welcome: "WELCOME TO AL ALAMEIAH",
+    overview: "OVERVIEW",
+    ourServices: "Our Services",
+    ourCompany: "Our Company",
+    ourVision: "Our Vision",
+    leadership: "LEADERSHIP",
+    ourCities: "OUR CITIES",
+    navigation: "NAVIGATION",
+  },
+  hotels: {
+    taj: "TAJ AL-RAQI",
+    subTaj: "TAJ AL-KHALIL PREVIOUSLY",
+    hijra: "AL-HIJRA AL-RAQI",
+    subHijra: "AFWAJ AL-TAWBAH 11 PREVIOUSLY",
+    safwa: "AL-SAFWA AL-RAQI",
+    subSafwa: "SAFWAT AL-TAJ PREVIOUSLY",
+    malak: "MALAK AL-RAQI",
+    subMalak: "MALAK AL-TAQWA PREVIOUSLY",
+    kady: "KADY AL-RAQI",
+    subKady: "ZOHOUR AL-TAJ PREVIOUSLY",
+    azka: "AZKA AL-SAFA",
+    nesour: "NESOUR AL-MOHAJEREEN",
+    mathaer: "MATHAER AL-JEWAR",
+    fajr: "FAJR AL-BADIE 2",
+    royal: "ROYAL MAJESTIC",
+    bolman: "BOLMAN ZAMZAM",
+  },
+  about: {
+    companyDesc:
+      "A company specialized in managing and operating hotels, providing catering services and organizing tourist trips Umrah, Hajj and quarantine programs.",
+    visionDesc:
+      "Serving the pilgrims from all over the world and its connection with the vision of our wise leadership. Our energies and capabilities to serve them, whose priority is to spare no effort in making every effort. Providing everything that meets the needs of God's guests and fulfills their aspirations.",
+  },
+  leaders: {
+    director: "Ahmed Khawaja",
+    directorPos: "Executive Director",
+  },
+  contact: {
+    callUs: "Call Us Now",
+    support: "Support 24/7 - Online 24 hours",
+    phoneNumber: "0126530666",
+    address: "Mecca Aziza, Al Safah Tower",
+    subAddress: "Floor 4, Office 113",
+    availability: "Available All Time",
+    mailUs: "Mail Us Now",
+  },
+}
